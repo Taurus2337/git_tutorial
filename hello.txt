@@ -5,3 +5,4 @@
 First line
 Second line
 >>>>>>> 1f0959b (First commit from new_branch)
+3 line
